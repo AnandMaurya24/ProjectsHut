@@ -2498,5 +2498,23 @@
 
         }
       ]
-  }
+  },
+  {
+  "github_username": "anandmaurya294",
+  "Social_media": {
+    "gitHub": "https://github.com/AnandMaurya24",
+    "LinkedIn": "YOUR_LINKEDIN_ACCOUNT_LINK",
+    "Instagram": "YOUR_INSTAGRAM_ACCOUNT_LINK",
+    "YouTube": "YOUR_YOUTUBE_ACCOUNT_LINK",
+    "Twitter": "YOUR_TWITTER_ACCOUNT_LINK"
+  },
+  "Projects": [
+    {
+      "link": "PROJECT_LINK",
+      "title": "https://github.com/priyankarpal/ProjectsHut",
+      "description": "Project shut is a platfrom to host your project",
+      "tech": ["REACTJS", "JAVASCRIPT"]
+    }
+  ]
+}
 ]
